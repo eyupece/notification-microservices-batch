@@ -41,6 +41,6 @@ Bu batch dosyaları ile Docker Compose mikroservislerinizi kolayca:
 
 Bu batch script'lerin **nasıl çalıştığı**, **mikroservis mimarisi** ve **Docker Compose detayları** için Medium makalemizi okuyun:
 
-**👉 [Medium: "Batch Script'lerle Docker Mikroservis Yönetimi"](https://medium.com/@yourhandle/batch-scriptlerle-docker-mikroservis-yonetimi)**
+**👉 [Medium: "Batch Script'lerle Docker Mikroservis Yönetimi"](https://medium.com/p/0a1acc3b30ce)**
 
 ---
